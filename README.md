@@ -7,5 +7,7 @@ Exercício 2 - Pedido
 
 Exercício 3 - ProjetoPato
 
+Exercício 5 - JogoParOuImpar
+
 
 
